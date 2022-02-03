@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T10:32:55.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.116 YaBrowser/22.1.1.1544 Yowser/2.5 Safari/537.36" etag="nVvVK-MOq-ApUJyoTtSz" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-03T10:38:25.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.116 YaBrowser/22.1.1.1544 Yowser/2.5 Safari/537.36" etag="WcX0nc-lErRW1qe2BewT" version="16.2.2" type="github">
   <diagram id="sibpOFg5A9fCZCPq-N_O" name="Page-1">
     <mxGraphModel dx="2585" dy="1420" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="1630" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qW97mtMqP5ZZPKN90ejD-64" value="RODC" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="98.03999999999999" y="80" width="100" height="40" as="geometry" />
+          <mxGeometry x="110" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qW97mtMqP5ZZPKN90ejD-65" value="R1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1295" y="230" width="100" height="40" as="geometry" />
@@ -118,14 +118,14 @@
         <mxCell id="qW97mtMqP5ZZPKN90ejD-70" value="BuyWin" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="860" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qW97mtMqP5ZZPKN90ejD-71" value="TalkWin" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="198.03999999999996" y="400" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="qW97mtMqP5ZZPKN90ejD-72" value="SaleWin" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1816.4099999999999" y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qW97mtMqP5ZZPKN90ejD-73" value="Маршутизатор" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1630" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW97mtMqP5ZZPKN90ejD-75" value="TalkLin" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="198.03999999999996" y="430" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
